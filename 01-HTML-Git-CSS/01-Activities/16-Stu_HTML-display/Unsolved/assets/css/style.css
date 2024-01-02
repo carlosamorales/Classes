@@ -4,11 +4,11 @@ header {
 }
 
 h2 {
-  text-align: block;
+  text-align: left;
 }
 
 ul {
-  text-align: left;
+  text-align: right;
   color: #ffffff;
 }
 
@@ -31,14 +31,11 @@ img {
 
 #item-2 {
   background-color: #0000ff;
-  
 }
 
 #item-3 {
   background-color: #999900;
-  
 }
-
 
 /* Box 3 */
 #image-3 {

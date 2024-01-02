@@ -7,15 +7,9 @@ section {
 
 img {
   width: 200px;
-  height: 90px;
+  height: 200px;
   background-color: lightblue;
   /* TODO: Add a margin property */
-  margin-bottom: 20;
-  margin-top: 20;
-  margin: 20px;
   /* TODO: Add a padding property */
-  padding: 20px 40px;
   /* TODO: Add a border property */
-  border: 10px solid darkblue;
 }
-

@@ -4,29 +4,17 @@
   }
   
 .section-blue {
-/* Sets font color */
-color: rgb(255, 255, 255);
-/* Sets background color */
-background-color: #c300ff;
-}
 
+}
   
 .container {
-/* Uses hex codes to define color */
-color: #0000ff;
-background-color: #ffa500;
-}
 
+}
 
 #section-1 {
-/* Uses hex codes to define color */
-color: #ffd000;
-background-color: #9900ff;
+
 }
 
-
 #section-6 {
-/* Uses hex codes to define color */
-color: #0000ff;
-background-color: #ffa500;
+
 }

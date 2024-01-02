@@ -28,8 +28,6 @@ If you have completed this activity, work through the following challenge with y
 
 * Which command do you use to copy or move files?
 
-cp it is used to copy and mv it is used to move files betweenc directories
-
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ---

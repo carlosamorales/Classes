@@ -38,11 +38,6 @@ If you have completed this activity, work through the following challenge with y
 
 * What are the `git fetch` and `git merge` commands? 
 
- `git fetch`  
-  git fetch is a Git command used to retrieve changes from a remote repository without automatically merging them into your working branch. It allows you to fetch updates made by others in the remote repository, providing you with information about changes without modifying your local working copy.
- `git merge`
-  git merge is a Git command used to combine changes from different branches. It allows you to merge the changes made in one branch into another. The primary use case for git merge is to integrate feature branches or topic branches back into the main branch, such as merging a feature branch into the main branch.
-
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
